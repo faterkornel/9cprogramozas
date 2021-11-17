@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica;
+}
+
+a, a:hover, a:visited, a:link {
+    color: #366000;
+}
+
+#cim {
+    margin: auto;
+    display: block;
+}
+
+p:first-of-type {
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2, h3 {
+    color: #22b12c;
+}
+
+.felköver {
+    font-weight: bold;
+}
+
+#noveny {
+    margin-right: 10px;
+    margin-left: 10px;
+    left: 80%;
+    position: relative;
+    display: block;
+    border: 2px, black thin solid;    
+}
+
+#a, #b, #c, #d, #e, #f {
+    border: black solid 2px;
+    width: 200px;
+    align: center;
+}
